@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/_prateek9" target="blank"><img src="https://img.shields.io/twitter/follow/_prateek9?logo=twitter&style=for-the-badge" alt="_prateek9" /></a> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Myself**.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**.
 
-- 👨‍💻 All of my projects are available at [pratikrupani.000webhostapp.com](pratikrupani.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [http://pratikrupani.000webhostapp.com/](pratikrupani.000webhostapp.com).
 
-- 💬 Ask me about **Java, Python, Web Development**
+- 💬 Ask me about **Java, Python, Web Development**.
 
-- 📫 How to reach me **pratikrupani9@gmail.com**
+- 📫 How to reach me **pratikrupani9@gmail.com**.
 
-- 📄 Know about my experiences [http://pratikrupani.000webhostapp.com/assets/resume.pdf](http://pratikrupani.000webhostapp.com/assets/resume.pdf)
+- 📄 Know about my experiences [http://pratikrupani.000webhostapp.com/assets/resume.pdf](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
 
 - ⚡ Fun fact **Before I started my career, would you believe I was planning to become a Chef.**
 
