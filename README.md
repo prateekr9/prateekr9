@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Java, Python, Web Development**.
 
-- 📫 How to reach me **pratikrupani9@gmail.com**.
+- 📫 How to reach me: **pratikrupani9@gmail.com**.
 
-- 📄 Know about my experiences [http://pratikrupani.000webhostapp.com/assets/resume.pdf](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
+- 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
 
 - ⚡ Fun fact **Before I started my career, would you believe I was planning to become a Chef.**
 
