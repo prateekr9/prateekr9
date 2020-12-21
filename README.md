@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
 
-- ⚡ Fun fact **Before I started my career, would you believe I was planning to become a Chef.**
+- ⚡ Fun fact: **Before I started my career, would you believe I was planning to become a Chef.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
