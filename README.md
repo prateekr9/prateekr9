@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=prateekr9" alt="prateekr9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_prateek9" target="blank"><img src="https://img.shields.io/twitter/follow/_prateek9?logo=twitter&style=for-the-badge" alt="_prateek9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_prateek9" target="blank"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="_prateek9" /></a> </p>
 
 - 🔭 I’m currently working on **Myself**.
 
