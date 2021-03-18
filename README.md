@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **pratikrupani9@gmail.com**.
 
-- 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/resume.pdf).
+- 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/Pratik_Rupani_Resume.pdf).
 
 - ⚡ Fun fact: **Before I started my career, would you believe I was planning to become a Chef.**
 
