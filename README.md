@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prateekr9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="prateekr9_" height="30" width="40" /></a>
+<a href="https://twitter.com/prateekr9_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prateekr9_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratik-rupani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratik-rupani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12107784/prateek-rupani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12107784/prateek-rupani" height="30" width="40" /></a>
 <a href="https://instagram.com/prateekr9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prateekr9" height="30" width="40" /></a>
