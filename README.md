@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Myself**.
 
-- 🌱 I’m currently learning **React Native**.
+- 🌱 I’m currently learning **C#**.
 
 - 👨‍💻 All of my projects are available at [here](http://pratikrupani.000webhostapp.com/).
-
-- 💬 Ask me about **Java, Python, Web Development**.
 
 - 📫 How to reach me: **pratikrupani9@gmail.com**.
 
