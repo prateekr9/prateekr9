@@ -5,17 +5,12 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=prateekr9" alt="prateekr9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prateekr9_" target="blank"><img src="https://img.shields.io/twitter/follow/prateekr9_?logo=twitter&style=for-the-badge" alt="prateekr9_" /></a> </p>
 
 - 🔭 I’m currently working on **Myself**.
 
-- 🌱 I’m currently learning **C#**.
-
-- 👨‍💻 All of my projects are available at [here](http://pratikrupani.000webhostapp.com/).
+- 🌱 I’m currently learning **JAVA**.
 
 - 📫 How to reach me: **pratikrupani9@gmail.com**.
-
-- 📄 Know about my experiences [here](http://pratikrupani.000webhostapp.com/assets/Pratik_Rupani_Resume.pdf).
 
 - ⚡ Fun fact: **Before I started my career, would you believe I was planning to become a Chef.**
 
